@@ -32,13 +32,15 @@ This repository showcases a task management system with essential functionalitie
 To run the web app, clone the repository along with the submodule using:
 
 ```bash
+git init
+git remote add origin https://github.com/Kishan-Pal/ToDo-dApp.git
 git clone --recurse-submodules --remote-submodules https://github.com/Kishan-Pal/ToDo-dApp
 ```
 
 Then, navigate to the submodule directory and install dependencies:
 
 ```bash
-cd 2-dapp
+cd ToDo-dApp/2-dapp
 npm install
 npm run dev
 ```
