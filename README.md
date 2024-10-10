@@ -34,7 +34,7 @@ To run the web app, clone the repository along with the submodule using:
 ```bash
 git init
 git remote add origin https://github.com/Kishan-Pal/ToDo-dApp.git
-git clone --recurse-submodules --remote-submodules https://github.com/Kishan-Pal/ToDo-dApp
+git clone --recurse-submodules https://github.com/Kishan-Pal/ToDo-dApp
 ```
 
 Then, navigate to the submodule directory and install dependencies:
