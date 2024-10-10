@@ -61,10 +61,3 @@ The submodule `2-dapp` contains the web application for task management. It supp
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Let me know if you need further modifications!
