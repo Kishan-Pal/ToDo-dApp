@@ -1,0 +1,12 @@
+D:\coding\block chain\todoApp\src\bin\Debug\net6.0\ToDoApp.deps.json
+D:\coding\block chain\todoApp\src\bin\Debug\net6.0\ToDoApp.dll
+D:\coding\block chain\todoApp\src\bin\Debug\net6.0\ToDoApp.pdb
+D:\coding\block chain\todoApp\src\obj\Debug\net6.0\ToDoApp.csproj.AssemblyReference.cache
+D:\coding\block chain\todoApp\src\obj\Debug\net6.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\block chain\todoApp\src\obj\Debug\net6.0\ToDoApp.AssemblyInfoInputs.cache
+D:\coding\block chain\todoApp\src\obj\Debug\net6.0\ToDoApp.AssemblyInfo.cs
+D:\coding\block chain\todoApp\src\obj\Debug\net6.0\ToDoApp.csproj.CoreCompileInputs.cache
+D:\coding\block chain\todoApp\src\obj\Debug\net6.0\ToDoApp.dll
+D:\coding\block chain\todoApp\src\obj\Debug\net6.0\refint\ToDoApp.dll
+D:\coding\block chain\todoApp\src\obj\Debug\net6.0\ToDoApp.pdb
+D:\coding\block chain\todoApp\src\obj\Debug\net6.0\ref\ToDoApp.dll

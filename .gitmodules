@@ -1,0 +1,3 @@
+[submodule "2-dapp"]
+	path = 2-dapp
+	url = https://github.com/Kishan-Pal/2-dapp.git
